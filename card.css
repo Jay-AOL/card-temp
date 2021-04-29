@@ -1,0 +1,96 @@
+body{
+  background-color: #0a0c1a;
+  margin: 150px;
+  font-size: 93.75%;
+  font-family: 'Lexend Deca', sans-serif;
+  position: relative;
+}
+
+.content{
+  background-color: #1b1938;
+  padding: 75px;
+  border-top-right-radius: 0.4rem;
+  border-bottom-right-radius: 0.4rem;
+  border-top-left-radius: 0.4rem;
+  border-bottom-left-radius: 0.4rem;
+}
+
+.heading{
+  font-size: 130%;
+  margin-bottom: 35px;
+  color: #ffffff;
+}
+
+h1{
+  margin: 0 auto 0 auto;
+}
+
+.insights{
+  color: #aa5cdb;
+}
+
+
+.paragraph{
+  color: #FFFFFFC0;
+  margin-bottom: 65px;
+  line-height: 0.5;
+}
+
+
+.footer-1{
+  position: absolute;
+  left: 6%;
+  bottom: 5%;
+}
+
+.footer-2{
+  position: absolute;
+  left: 18%;
+  bottom: 5%;
+}
+
+.footer-3{
+  position: absolute;
+  left: 30%;
+  bottom: 5%;
+}
+
+
+.stats{
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+
+.stat-head{
+  color: #FFFFFF99;
+  font-family: 'Inter', sans-serif;
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+.image-div{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  width: 50%;
+}
+
+.image{
+  height: 100%;
+  width: 100%;
+  border-top-right-radius: 0.4rem;
+  border-bottom-right-radius: 0.4rem;
+}
+
+.colour{
+  border-top-right-radius: 0.4rem;
+  border-bottom-right-radius: 0.4rem;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+  opacity: .65;
+  background-color: #aa5cdb;
+}
